@@ -6,12 +6,12 @@
         "en": "PlexMediaServer package for YunoHost.",
         "fr": "PlexMediaServer pour YunoHost."
     },
-    "version": "1.40.0.7998",
+    "version": "1.40.1.8227",
     "url": "http://plex.tv/",
     "license": "non-free",
     "maintainer": {
-        "name": "JP Hastings-Spital",
-        "email": "plexmediaserver_ynh@byjp.me"
+        "name": "anishda",
+        "email": "plexmediaserver_ynh@anishda.fr"
     },
     "requirements": {
         "yunohost": ">= 2.7.2"
